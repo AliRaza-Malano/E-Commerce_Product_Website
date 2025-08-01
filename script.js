@@ -59,7 +59,7 @@ const foodItemsData = [
         name: "Samosa (2 pcs)",
         description: "Crispy and savory fried pastries filled with spiced potatoes and peas.",
         price: 200,
-        image: "img/Samosa.webp"
+        image: "img/samosa.webp"
     },
     {
         id: 9,
